@@ -2,7 +2,6 @@ import { NavLink } from 'react-router-dom';
 
 import classes from './MainHeader.module.css';
 
-//NavLink allows to add css class
 const MainHeader = () => {
   return (
     <header className={classes.header}>
